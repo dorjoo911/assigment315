@@ -1,0 +1,16 @@
+body {
+  background: -webkit-repeating-radial-gradient(orange, lime, yellow);
+  text-align: center;
+}
+p {
+  font-size: 25px;
+  color: blue;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+a {
+  border: 2px;
+}
